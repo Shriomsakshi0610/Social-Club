@@ -1,0 +1,428 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "slug": "kudremukh-peak-rainforest-trek",
+      "title": "Kudremukh Peak: Rainforest & Clouds Trek",
+      "tagline": "Hike through emerald shola grasslands and mystical rolling ridges.",
+      "category": "trekking",
+      "description": "Ascend Karnataka's third-highest peak shaped like a horse's face ('Kudremukh'). Walk along protected national park ridges, cross pristine mountain streams, and immerse yourself in lush green rainforest valleys. \n\nThis is a certified eco-conscious, zero-litter group expedition led by accredited mountain wilderness first-responders. We travel together in a private tempo traveller from Bengaluru, camp in eco-homestays, and summit together at dawn.",
+      "cover_image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "gallery_images": [
+        "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "start_date": "2026-10-24T05:30:00.000Z",
+      "end_date": "2026-10-25T21:00:00.000Z",
+      "duration_label": "2 Days, 1 Night",
+      "destination": "Kudremukh National Park, Chikmagalur, Karnataka",
+      "meeting_point": "Shantala Silk House, Majestic, Bengaluru (Pickups at Domlur & Yeshwantpur)",
+      "travel_mode": "Private AC Tempo Traveller (Included)",
+      "difficulty": "Moderate",
+      "price_per_person": 4299,
+      "total_capacity": 18,
+      "booked_seats": 12,
+      "registration_deadline": "2026-10-22T23:59:59.000Z",
+      "status": "published",
+      "is_featured": true,
+      "itinerary": [
+        {
+          "day": "Day 0 (Friday Night)",
+          "time": "10:00 PM",
+          "title": "Overnight Journey from Bengaluru",
+          "description": "Meet your trek leads and fellow adventurers at the pickup points. Icebreakers, music, and an overnight scenic drive to Chikmagalur."
+        },
+        {
+          "day": "Day 1 (Saturday)",
+          "time": "06:30 AM",
+          "title": "Homestay Arrival & The Ascent",
+          "description": "Fresh up at the traditional coffee plantation homestay, heavy Malnad breakfast, collect packed trail lunches, and obtain forest department permits. Trek 22 km round trip through misty shola forests and steep grassland climbs."
+        },
+        {
+          "day": "Day 1 (Saturday Evening)",
+          "time": "07:30 PM",
+          "title": "Campfire, Stories & Hot Dinner",
+          "description": "Relax after descending. Gather around a warm acoustic bonfire, exchange stories under starry skies, and feast on traditional dinner."
+        },
+        {
+          "day": "Day 2 (Sunday)",
+          "time": "08:00 AM",
+          "title": "Hidden Waterfall Dip & Return",
+          "description": "Morning stroll through coffee estates, visit a secluded natural waterfall for a refreshing swim, lunch at Belur, and return to Bengaluru by 9 PM."
+        }
+      ],
+      "inclusions": [
+        "Round-trip AC transportation from Bengaluru",
+        "Kudremukh Forest Department permit fees & guide charges",
+        "1 night shared accommodation at rustic eco-homestay",
+        "2 Breakfasts, 1 Packed Lunch, 1 Dinner, evening tea/snacks",
+        "Certified wilderness trek leaders and first-aid support",
+        "Badges, Social Club bandana, and digital photo album"
+      ],
+      "exclusions": [
+        "Meals during transit (Friday dinner & Sunday dinner)",
+        "Personal backpack porter services",
+        "Personal medical expenses and travel insurance",
+        "Anything not specifically listed under inclusions"
+      ],
+      "things_to_bring": [
+        "Sturdy trekking shoes with deep lug grip (mandatory)",
+        "Daypack (20-30L) with rain cover",
+        "2-3 Litres reusable water bottle / hydration bladder",
+        "Rain poncho or waterproof jacket",
+        "Government Photo ID (original Aadhaar/Passport for forest check-post)",
+        "Torch or headlamp with extra batteries",
+        "Quick-dry t-shirts and trekking track pants",
+        "Personal toiletries and basic personal medication"
+      ],
+      "safety_instructions": [
+        "Zero-tolerance policy on alcohol, narcotics, and littering on forest trails.",
+        "Strictly follow instructions from the designated trek leads at all river crossings.",
+        "Inform the team of any pre-existing medical conditions (asthma, heart, joint issues) before departure.",
+        "Stay strictly on the marked trails to avoid ecological disturbance."
+      ],
+      "cancellation_policy": "Cancel up to 5 days prior for an 85% refund or 100% credit voucher. 50% refund between 4-2 days. No refunds within 48 hours of departure.",
+      "faqs": [
+        {
+          "question": "Can beginners participate in this trek?",
+          "answer": "Yes, provided you have a basic baseline fitness (can jog 3 km without pausing). The total distance is 22 km, which can be challenging if completely sedentary."
+        },
+        {
+          "question": "Is single/solo traveler welcome?",
+          "answer": "Over 65% of our community members sign up solo! You'll be welcomed warmly and paired with like-minded adventurers."
+        },
+        {
+          "question": "What are the homestay restroom facilities like?",
+          "answer": "Clean western toilets with hot water facilities are provided at the plantation homestay base."
+        }
+      ],
+      "organizer": {
+        "name": "Arjun Mehta (Lead Wilderness Guide)",
+        "phone": "+91 98765 43210",
+        "email": "expeditions@socialclub.org",
+        "whatsapp_group_link": "https://chat.whatsapp.com/demo-socialclub-kudremukh"
+      },
+      "created_at": "2026-10-01T10:00:00.000Z",
+      "updated_at": "2026-10-10T12:00:00.000Z"
+    },
+    {
+      "id": "evt-002",
+      "slug": "pawna-lake-stargazing-camping",
+      "title": "Pawna Lake: Stargazing & Acoustic Bonfire",
+      "tagline": "Waterfront dome tents, acoustic jam sessions, barbecue, and open-air stargazing.",
+      "category": "camping",
+      "description": "Escape city chaos and unwind right on the serene banks of Pawna Lake, flanked by historic Sahyadri forts (Tung and Tikona). \n\nArrive by afternoon, dive into kayaking and sunset volleyball, enjoy live acoustic guitar melodies around the campfire, roast marshmallows, and sleep under a blanket of unpolluted constellations in twin/triple sharing weather-proof camping tents.",
+      "cover_image": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?auto=format&fit=crop&w=1200&q=80",
+      "gallery_images": [
+        "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "start_date": "2026-11-07T15:00:00.000Z",
+      "end_date": "2026-11-08T11:00:00.000Z",
+      "duration_label": "Overnight (20 Hours)",
+      "destination": "Pawna Dam Reservoir, Lonavala / Pune outskirts",
+      "meeting_point": "Campsite Bay 4, Pawna Lake (Directions & GPS shared upon booking)",
+      "travel_mode": "Self-Drive / Carpool organized in private WhatsApp group",
+      "difficulty": "Easy",
+      "price_per_person": 1899,
+      "total_capacity": 30,
+      "booked_seats": 19,
+      "registration_deadline": "2026-11-06T18:00:00.000Z",
+      "status": "published",
+      "is_featured": true,
+      "itinerary": [
+        {
+          "day": "Saturday Afternoon",
+          "time": "03:30 PM",
+          "title": "Check-in & Lakeside High Tea",
+          "description": "Welcome drink, snack on hot pakoras, tent allocations, and leisure sunset viewing."
+        },
+        {
+          "day": "Saturday Dusk",
+          "time": "05:30 PM",
+          "title": "Kayaking & Lawn Games",
+          "description": "Take out sit-on-top kayaks with life jackets, play frisbee, badminton or board games."
+        },
+        {
+          "day": "Saturday Night",
+          "time": "08:00 PM",
+          "title": "Live Barbecue & Acoustic Music",
+          "description": "Unlimited veg/non-veg BBQ skewers, campfire storytelling, acoustic guitar singalongs."
+        },
+        {
+          "day": "Sunday Morning",
+          "time": "07:30 AM",
+          "title": "Golden Sunrise & Buffet Breakfast",
+          "description": "Poha, eggs to order, chai/coffee, morning dip in clean designated lake section, checkout by 11 AM."
+        }
+      ],
+      "inclusions": [
+        "Twin/Triple sharing dome tent with foam mattresses, clean bedsheets, and pillows",
+        "Welcome tea & snacks, unlimited BBQ snacks (1 hour), buffet dinner, breakfast",
+        "Kayaking gear & life jackets with safety instructor",
+        "Bonfire setup and acoustic guitar session",
+        "Clean washroom and shower blocks with running water",
+        "Free campsite car parking"
+      ],
+      "exclusions": [
+        "Travel from Mumbai/Pune to Pawna campsite (carpool coordination assisted)",
+        "Packaged mineral water and personal beverages",
+        "Any extra activities outside itinerary"
+      ],
+      "things_to_bring": [
+        "Warm hoodie or light jacket (gets breezy at night)",
+        "Comfortable slippers and sneakers",
+        "Mosquito repellent cream (Odomos)",
+        "Swimming costume if swimming",
+        "Power bank for mobile charging"
+      ],
+      "safety_instructions": [
+        "Life jackets are strictly mandatory before entering any watercraft or lake zone.",
+        "Swimming after 6:30 PM is strictly prohibited.",
+        "Respect camp quiet hours after 12:30 AM."
+      ],
+      "cancellation_policy": "100% refund up to 72 hours before check-in. 50% refund within 48 hours. No refund within 24 hours.",
+      "faqs": [
+        {
+          "question": "Is the campsite safe for solo female campers?",
+          "answer": "Absolutely. We have dedicated female trek leads on site, a secured private perimeter, and 24/7 security staff."
+        },
+        {
+          "question": "Are washrooms hygienic?",
+          "answer": "Yes, we maintain Western and Indian style tiled restrooms with regular sanitization."
+        }
+      ],
+      "organizer": {
+        "name": "Sneha Nair (Community Host)",
+        "phone": "+91 98111 22334",
+        "email": "camping@socialclub.org",
+        "whatsapp_group_link": "https://chat.whatsapp.com/demo-socialclub-pawna"
+      },
+      "created_at": "2026-10-02T11:00:00.000Z",
+      "updated_at": "2026-10-10T12:00:00.000Z"
+    },
+    {
+      "id": "evt-003",
+      "slug": "coastal-highway-gokarna-roadtrip",
+      "title": "Konkan to Gokarna: Coastal Highway Expedition",
+      "tagline": "Cliffside sunsets, ferry crossings, secluded beaches, and beach shack conversations.",
+      "category": "roadtrip",
+      "description": "Drive through one of India's most breathtaking coastal routes. We wind through winding coconut grooves, stop at hidden sea cliffs, cross river estuaries on rustic vehicle barges, and spend our evenings listening to the waves at Kudle and Om beach.\n\nTravel in our private convoy or join in our communal tempo cruiser. Great music, spontaneous tea stops, and unforgettable coastal horizons.",
+      "cover_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "gallery_images": [
+        "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "start_date": "2026-11-13T06:00:00.000Z",
+      "end_date": "2026-11-15T20:00:00.000Z",
+      "duration_label": "3 Days, 2 Nights",
+      "destination": "Murudeshwar, Honnavar & Gokarna, Coastal Karnataka",
+      "meeting_point": "Goraguntepalya Metro Station, Bengaluru",
+      "travel_mode": "Shared AC Expedition Cruiser",
+      "difficulty": "Easy",
+      "price_per_person": 6999,
+      "total_capacity": 15,
+      "booked_seats": 8,
+      "registration_deadline": "2026-11-10T18:00:00.000Z",
+      "status": "published",
+      "is_featured": true,
+      "itinerary": [
+        {
+          "day": "Day 1 (Friday)",
+          "time": "06:00 AM",
+          "title": "Bengaluru to Honnavar Mangrove Boating",
+          "description": "Early morning start, highway breakfast, scenic drive down the Ghats to Honnavar. Backwater boat ride through backwater islands, sunset at Eco Beach."
+        },
+        {
+          "day": "Day 2 (Saturday)",
+          "time": "08:30 AM",
+          "title": "Gokarna 5-Beach Cliff Trail",
+          "description": "Gentle panoramic hike traversing Belekan Beach, Paradise Beach, Half Moon Beach, Om Beach, and Kudle Beach. Sunset beach cafe meetup."
+        },
+        {
+          "day": "Day 3 (Sunday)",
+          "time": "09:00 AM",
+          "title": "Mirjan Fort Exploration & Return",
+          "description": "Visit historic 16th-century Mirjan Fort covered in moss, traditional coastal thali lunch, and return drive to Bengaluru."
+        }
+      ],
+      "inclusions": [
+        "Entire travel across all 3 days in dedicated AC cruiser",
+        "2 nights boutique beach-side resort stay (AC double sharing)",
+        "Daily breakfast buffet and Honnavar boat safari entry",
+        "Guided Gokarna 5-beach cliff trek with certified trip leaders",
+        "All tolls, parking fees, and driver allowances"
+      ],
+      "exclusions": [
+        "Lunch and dinner cafes (we love exploring local eateries together)",
+        "Water sports (banana ride/jet ski at Om Beach)",
+        "Personal shopping and souvenirs"
+      ],
+      "things_to_bring": [
+        "Light linen shirts/shorts",
+        "Sunglasses and broad-spectrum sunscreen",
+        "Sandals / water shoes + 1 pair walking sneakers",
+        "Swimwear and beach towel",
+        "Camera and portable charger"
+      ],
+      "safety_instructions": [
+        "Do not swim in rocky non-patrolled sections of Half Moon beach.",
+        "Wear life vest during the Sharavathi backwater boat tour.",
+        "Follow designated convoy speed and meetup stops."
+      ],
+      "cancellation_policy": "Cancel 7+ days in advance for 90% refund. 50% refund 3-6 days in advance. No refund within 72 hours.",
+      "faqs": [
+        {
+          "question": "Can I bring my own car and join the convoy?",
+          "answer": "Yes! Select 'Self-Drive Participant' during checkout for an adjusted fee of ₹4,299 per person including stays and guided tours."
+        }
+      ],
+      "organizer": {
+        "name": "Rohan Deshmukh (Roadtrip Curator)",
+        "phone": "+91 97722 33445",
+        "email": "roadtrips@socialclub.org",
+        "whatsapp_group_link": "https://chat.whatsapp.com/demo-socialclub-roadtrip"
+      },
+      "created_at": "2026-10-03T09:00:00.000Z",
+      "updated_at": "2026-10-10T12:00:00.000Z"
+    },
+    {
+      "id": "evt-004",
+      "slug": "sunday-sunrise-coffee-and-bouldering",
+      "title": "Sunrise Coffee, Bouldering & Board Games",
+      "tagline": "Start your Sunday outdoors with good brew, introductory rock bouldering, and relaxed conversations.",
+      "category": "meetup",
+      "description": "A relaxed Sunday morning gathering designed to help you meet friendly city dwellers outside bars and screens. \n\nWe gather at Turahalli Forest hillocks at 6:30 AM for a gentle boulder scramble and sunrise watch, followed by specialty pour-over coffee brewed right at the rocks, and an interactive tabletop board game session in the shade.",
+      "cover_image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+      "gallery_images": [
+        "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "start_date": "2026-10-18T01:00:00.000Z",
+      "end_date": "2026-10-18T05:30:00.000Z",
+      "duration_label": "4.5 Hours",
+      "destination": "Turahalli Forest Viewpoint, Kanakapura Road, Bengaluru",
+      "meeting_point": "Turahalli Forest North Gate Parking",
+      "travel_mode": "Self-reach / Carpooling coordinated on WhatsApp",
+      "difficulty": "All Levels",
+      "price_per_person": 0,
+      "total_capacity": 25,
+      "booked_seats": 16,
+      "registration_deadline": "2026-10-17T20:00:00.000Z",
+      "status": "published",
+      "is_featured": false,
+      "itinerary": [
+        {
+          "day": "Sunday Morning",
+          "time": "06:30 AM",
+          "title": "Meetup & Sunrise Hike",
+          "description": "Quick icebreaker at North gate, 15-minute trail walk to the summit boulder."
+        },
+        {
+          "day": "Sunday Morning",
+          "time": "07:15 AM",
+          "title": "Introductory Bouldering & Crashpad Scramble",
+          "description": "Certified climbing instructors demonstrate basic footwork and safe spotting."
+        },
+        {
+          "day": "Sunday Morning",
+          "time": "08:30 AM",
+          "title": "Fresh Brew Bar & Tabletop Games",
+          "description": "Fresh artisanal pour-over coffee, warm croissants, Codenames, and conversation cards."
+        }
+      ],
+      "inclusions": [
+        "Free community participation & climbing shoes loaner",
+        "Artisanal coffee tasting station",
+        "Board games & social icebreaker games",
+        "Safety gear & climbing crash pads"
+      ],
+      "exclusions": [
+        "Personal transport to venue"
+      ],
+      "things_to_bring": [
+        "Comfortable flexible sportswear",
+        "Water bottle",
+        "A curious, friendly attitude"
+      ],
+      "safety_instructions": [
+        "Spotting required on boulders higher than 2 meters.",
+        "Stay within marked park trails."
+      ],
+      "cancellation_policy": "Free cancellation anytime. Please release your ticket if you cannot make it so someone on the waitlist can attend.",
+      "faqs": [
+        {
+          "question": "Is this event truly free?",
+          "answer": "Yes! Social Club hosts monthly free community meetups to keep the outdoors welcoming and accessible to everyone."
+        }
+      ],
+      "organizer": {
+        "name": "Tara Kulkarni (Social Director)",
+        "phone": "+91 99001 12233",
+        "email": "community@socialclub.org",
+        "whatsapp_group_link": "https://chat.whatsapp.com/demo-socialclub-meetup"
+      },
+      "created_at": "2026-10-04T08:00:00.000Z",
+      "updated_at": "2026-10-10T12:00:00.000Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk-sample-01",
+      "booking_ref": "SC-2026-X8K9",
+      "event_id": "evt-001",
+      "event_title": "Kudremukh Peak: Rainforest & Clouds Trek",
+      "event_date": "2026-10-24T05:30:00.000Z",
+      "event_destination": "Kudremukh National Park, Chikmagalur, Karnataka",
+      "user_name": "Rahul Verma",
+      "user_email": "rahul.v@example.com",
+      "user_phone": "+91 98765 12345",
+      "num_participants": 2,
+      "participants": [
+        {
+          "name": "Rahul Verma",
+          "age": 27,
+          "gender": "Male",
+          "notes": "No dietary restrictions"
+        },
+        {
+          "name": "Pooja Sharma",
+          "age": 26,
+          "gender": "Female",
+          "notes": "Vegetarian"
+        }
+      ],
+      "emergency_contact_name": "Anita Verma",
+      "emergency_contact_phone": "+91 98765 99887",
+      "terms_accepted": true,
+      "safety_waiver_accepted": true,
+      "total_amount": 8598,
+      "payment_status": "paid",
+      "booking_status": "confirmed",
+      "razorpay_order_id": "order_mock_12345",
+      "razorpay_payment_id": "pay_mock_98765",
+      "razorpay_signature": "sig_verified_mock",
+      "created_at": "2026-10-11T05:24:02.090Z",
+      "updated_at": "2026-10-11T05:24:02.091Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pm-001",
+      "booking_id": "bk-sample-01",
+      "booking_ref": "SC-2026-X8K9",
+      "razorpay_order_id": "order_mock_12345",
+      "razorpay_payment_id": "pay_mock_98765",
+      "amount": 8598,
+      "currency": "INR",
+      "status": "captured",
+      "method": "UPI",
+      "created_at": "2026-10-11T05:24:02.091Z"
+    }
+  ],
+  "inquiries": [],
+  "subscribers": []
+}

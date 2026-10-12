@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest-950: #06150e;
+  --color-forest-900: #0d281a;
+  --color-forest-800: #143e29;
+  --color-forest-700: #1b5437;
+  --color-forest-600: #25704a;
+  --color-forest-500: #329060;
+  
+  --color-lime-accent: #bbf451;
+  --color-lime-hover: #cdf879;
+  --color-lime-dark: #84cc16;
+
+  --color-sand-50: #fbfbf7;
+  --color-sand-100: #f4f3ea;
+  --color-sand-200: #eae8d9;
+  --color-sand-300: #d8d4bf;
+  --color-sand-800: #2b2b24;
+  --color-sand-900: #191915;
+}
+
+:root {
+  --background: #fbfbf7;
+  --foreground: #121c16;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f4f3ea;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #143e29;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0d281a;
+}
+
+/* Custom noise overlay or glow effects */
+.bg-grid-pattern {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(20, 62, 41, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(20, 62, 41, 0.05) 1px, transparent 1px);
+}
+
+.text-glow {
+  text-shadow: 0 0 20px rgba(187, 244, 81, 0.4);
+}
