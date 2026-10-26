@@ -172,4 +172,4 @@ If you wish to use a hosted Supabase PostgreSQL database:
    - The backend validates the signature, marks the booking as paid, and deducts the available seats atomically.
 5. You will be redirected to the **Booking Confirmation Page** with your unique reference (e.g., `SC-2026-X8K9`).
 6. Test lookup: Go to `/my-bookings` and enter your reference code and email to inspect or manage your booking!
-7. cash payment and confirmation slot booking 
+
